@@ -1,0 +1,9 @@
+<svg width="1440px" height="181px" viewBox="0 0 1440 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Down Arrow Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="High-Fidelity" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,0 C1.60893855,16.3110881 10.1476036,31.7784992 24.9667745,41.4807844 C30.1182005,44.841431 35.7635989,47.3443394 41.7194943,48.8910805 L705.491326,178.352299 C714.890914,180.77084 724.756248,180.77084 734.141723,178.352299 L1398.15348,48.8910805 C1421.66657,42.7744224 1437.6995,22.7511557 1440,0 L0,0 Z" id="Down-Arrow-Shape" fill="#9D50BB"/>
+    </g>
+</svg>
